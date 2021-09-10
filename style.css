@@ -1,0 +1,54 @@
+*{
+font-family: 'Alex Brush', cursive;
+cursor: pointer;
+
+}
+
+
+body {
+    background-color: teal;
+}
+nav a {
+    text-align: right;
+    float: right;
+    margin: 10px;
+    color:rgb(14, 7, 15);
+    font-size: 20px;
+}
+
+a:hover {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: darkgray;
+    font-style: italic;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px black;
+    }
+    
+img {
+    border: 100px double; color: rgb(228, 6, 91); 
+    float: left;
+     
+}
+
+p {
+    font-size: 35px;
+    text-align: center;
+    width: 8in;
+
+    float: right;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(177, 166, 166);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin:5px
+}
