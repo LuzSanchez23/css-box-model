@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+    margin: 5px;
+    font-size:50px;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 250px;
+}
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+ol.f {
+    list-style-type: decimal;
+}
+
+.centeralign {
+    text-align: center;
+}
+
+Ul.v {
+    list-style-type: none;
+}
+
+p {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: oldlace;
+    color:green;
+  }
