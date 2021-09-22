@@ -48,10 +48,11 @@ Ul.v {
 p {
     text-align: center;
 }
-footer {
+footer h4{
     text-align: center;
     padding: 3px;
     background-color:rgb(233, 150, 67);
     color:green;
+    font-size: small;
   }
  
